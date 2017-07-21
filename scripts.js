@@ -8,4 +8,4 @@ function getTriangleArea(a, h) {
 	} else{ 
 		console.log('Nieprawidłowe dane')};
 };
-console.log( getTriangleArea(10,6) );
+ console.log( getTriangleArea(10,6) );
