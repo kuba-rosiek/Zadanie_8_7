@@ -7,5 +7,5 @@ function getTriangleArea(a, h) {
 	console.log('Nieprawidłowe dane')
 	} else{ 
 	console.log('Nieprawidłowe dane')};
-	console.log( getTriangleArea(10,6) );
 };
+	console.log( getTriangleArea(10,6) );
